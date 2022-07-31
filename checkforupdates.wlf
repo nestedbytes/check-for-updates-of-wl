@@ -1,0 +1,5 @@
+tell:
+Checking For Updates!
+shell:
+what-language-interpreter.exe --update
+inter.gen.console.wait-
